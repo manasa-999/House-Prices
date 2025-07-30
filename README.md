@@ -1,2 +1,2 @@
-# Loan-Predictions
-ML model to predict loan approval using classification algorithms.
+# House prices
+ML model to predict house prices using regression algorithms.
