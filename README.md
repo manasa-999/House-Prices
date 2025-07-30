@@ -10,7 +10,13 @@ This project predicts house prices using machine learning models like Linear Reg
 
 ## 📊 Algorithms Used
 - Linear Regression
-- Random Forest
+- KNeighbors
+- SVR
+- Decision Tree 
+- Random Forest 
+- Ada Boost
+- Gradient Boosting
+- Extra Trees
 - Feature Engineering and Preprocessing
 
 ## 🧠 Libraries Used
